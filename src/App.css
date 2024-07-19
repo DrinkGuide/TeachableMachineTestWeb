@@ -1,7 +1,15 @@
+/* src/App.css */
 .App {
   text-align: center;
 }
 
+#webcam-container {
+  margin: 20px auto;
+}
+
+#label-container {
+  margin-top: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
